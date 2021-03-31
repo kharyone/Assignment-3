@@ -1,4 +1,43 @@
-h1 {
-	text-align: center;
+.navbar{
+	min-height: 80px;
 }
 
+.navbar-brand{
+	margin-left: 0.75em;
+}
+
+.navbar-toggler{
+	margin-right: 0.5em;
+}
+
+.container-fluid{
+	padding: 0px!important;
+
+}
+
+.navbar ul {
+	margin-top: 10px;
+	background-color: #737679;
+	margin-bottom: -5.5px!important;
+}
+
+.navbar ul li{
+	border: 2px solid black;
+}
+
+.nav-link{
+	color:black!important;
+	font-size: 18px;
+}
+
+h4{
+	background-color: #737679;
+	margin: 0px!important;
+	padding-top: 10px;
+}
+
+p{
+	font-size: 18px!important;
+	background-color: #737679;
+	padding: 10px;
+}
